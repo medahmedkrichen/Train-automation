@@ -7,7 +7,7 @@ This an automation for computer vision classification training that help you to:
   
   
 ```
-python train.py --data data/ --model_name /model/model.h5 --size 128 --rescale --batch_size 64 --epochs 10
+python train.py --data data/ --model_name model/model.h5 --size 128 --rescale --batch_size 64 --epochs 10
 ```
 ```
   --data: Directory of images to train
