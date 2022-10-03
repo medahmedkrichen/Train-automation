@@ -14,7 +14,6 @@ python train.py --data data/ --model_name /model/model.h5 --size 128 --rescale -
   --model_name: path to save model
   --size: size of Images
   --rescale: rescale the image
-
 ```
    
   
