@@ -16,7 +16,8 @@ python train.py --data data/ --model_name /model/model.h5 --size 128 --rescale -
   --rescale: rescale the image
 ```
    
-  
+# # 
+
 # Test-automation
 
 This an automation for computer vision classification testing that help you to: 
